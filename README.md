@@ -185,5 +185,5 @@ El proyecto incluye un archivo `Backend_Test_Postman_Collection.json` listo para
 - Código fuente completo
 - Archivo README.md (Actualizado)
 - Colección de Postman (Ya incluida en repositorio)
-- Video explicativo (Pendiente)
+- Video explicativo (Youtube: https://youtu.be/jqsbc4AvetU?si=Q80JPhBMUmHR6S1w)
 
